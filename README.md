@@ -6,7 +6,7 @@ BEW 1.2 Day 9 challenges!
 
 ## TDD Practice
 
-1. Clone the [starter repo](https://github.com/make-school-labs/tdd-bdd-challenge) for this activity
+1. Clone this repo locally and `cd` into its directory
 2. `$ npm i` install starter code packages.
 3. `$ npm i mocha -g` Install mocha globally.
 4. Open the code in your preferred code editor.
